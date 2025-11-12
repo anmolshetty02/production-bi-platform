@@ -13,7 +13,7 @@ Transform 14+ years of legacy data into actionable insights using AI-powered ana
 
 ## 🎯 Problem Statement
 
-A $10M+ Crore manufacturing operation was running on **15-year-old MS Access databases** with:
+A $17M+ manufacturing operation was running on **15-year-old MS Access databases** with:
 - ❌ 4+ hour manual report generation time
 - ❌ No real-time visibility into operations
 - ❌ Critical business insights buried in 98 disconnected tables
@@ -78,7 +78,7 @@ Built an end-to-end AI-powered BI platform that:
 
 📌 **Revenue Concentration:** 50% of revenue from top 3 customers  
 📌 **Delivery Performance:** 82% on-time delivery rate  
-📌 **Data Volume:** $20M+ Crore total revenue processed  
+📌 **Data Volume:** $17.8M total revenue processed  
 📌 **Customer Base:** 1,364 active customers across operations
 
 ---
@@ -304,8 +304,8 @@ RAW_DIR = "data/raw"
 ## 📊 Sample Insights
 
 ### Revenue Analysis
-- **Total Revenue (14 years):** Around $20M
-- **Annual Average:** $1.2M 
+- **Total Revenue (14 years):** Around $17.8M
+- **Annual Average:** $1.27M 
 - **Peak Year:** [Query to find]
 - **Growth Trend:** [Query to analyze]
 
@@ -382,7 +382,7 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
-- Built for a $20M+ Crore manufacturing operation
+- Built for a $17M+ manufacturing operation
 - 14 years of operational data migrated and analyzed
 - Serving executive decision-making and operational efficiency
 
